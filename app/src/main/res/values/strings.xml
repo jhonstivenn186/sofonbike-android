@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOFONBIKE</string>
+    <string name="title_activity_maps">SOFONBIKE</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#136f82</item>
+        <item name="colorPrimaryDark">#122c32</item>
+        <item name="colorAccent">#d8e3e7</item>
+        <item name="toolbarStyle">@style/Theme.Sofonbike</item>
+    </style>
+    <style name="SplashTheme" parent="AppTheme">
+    </style>
+
+</resources>
